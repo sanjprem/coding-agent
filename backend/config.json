@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "UXFocus_Hosting": {
+      "development_path": "C:/Users/sanjp/Voyage/Organizations/UXFocus/Hosting/development",
+      "strategy_path": "C:/Users/sanjp/Voyage/Organizations/UXFocus/Hosting/strategy"
+    },
+    "UXFocus_Website": {
+      "development_path": "C:/Users/sanjp/Voyage/Organizations/UXFocus/Website/development",
+      "strategy_path": "C:/Users/sanjp/Voyage/Organizations/UXFocus/Website/strategy"
+    }
+  },
+  "watch_interval": 5
+}
